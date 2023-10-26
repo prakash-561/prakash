@@ -24,7 +24,7 @@ h1 span {
     display: table-cell;
     margin: 10px;
     padding: 1rem;
-    animation: animate 3s ease infinite;
+    animation: animate 2s ease infinite;
 }
 
 h1 span:nth-child(1) {
